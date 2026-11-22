@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Bismaya Mohapatra
 
 ### Senior DevOps Engineer | Platform Engineering | SRE | Cloud Native
 
 Building reliable, scalable, and secure infrastructure through automation, cloud-native technologies, and open-source collaboration.
-I enjoy solving complex infrastructure challenges, engineering developer platforms, automating operations, and exploring how AI can improve modern software engineering.
+I enjoy solving infrastructure challenges, engineering developer platforms, automating operations, and exploring how AI can improve modern software engineering.
 
 
 
