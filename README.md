@@ -78,6 +78,20 @@ I enjoy solving complex infrastructure challenges, engineering developer platfor
       <br/>
       <b>Azure DevOps<br/>Expert</b>
     </td>
+    <td align="center">
+  <a href="YOUR_HASHICORP_VAULT_ASSOCIATE_CREDLY_URL">
+    <img src="https://cdn.simpleicons.org/vault/FFEC6E" width="90" height="90" alt="HashiCorp Vault Associate" />
+  </a>
+  <br/>
+  <b>Vault<br/>Associate</b>
+</td>
+<td align="center">
+  <a href="YOUR_MICROSOFT_SC-900_CREDLY_URL">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" height="90" alt="Microsoft Security, Compliance, and Identity Fundamentals" />
+  </a>
+  <br/>
+  <b>Security, Compliance<br/> Fundamentals</b>
+</td>
   </tr>
 </table>
 
